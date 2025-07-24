@@ -1,4 +1,4 @@
-# BrainGen: Brain-to-Image Generation with Mixture-of-Experts Encoders
+# MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding
 
 This repository contains the implementation for brain-to-image reconstruction using fMRI data with advanced Mixture-of-Experts (MoE) neural architectures. The system converts brain activity patterns into visual images through a multi-stage pipeline involving neural encoding, diffusion model fine-tuning, and image generation.
 
